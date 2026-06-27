@@ -1,0 +1,6 @@
+{
+  "name": "Simran Tuition",
+  "description": "Professional tuition class management system featuring teacher login, student record tracking, fee collections dashboard, automated monthly reminders, search/filters, and full Google Sheet synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
